@@ -19,3 +19,8 @@ var languages = require('languages-list');
 
 console.log(languages);
 ```
+
+## Related
+
+- [random-lang](https://github.com/bubkoo/random-lang) - Return a random language name.
+- [pick-some](https://github.com/bubkoo/pick-some) - Randomly sampling some item(s) from an array(array like object).
