@@ -1,4 +1,4 @@
-# language-list
+# languages-list
  
 > A list of languages of the world.
 
@@ -9,13 +9,13 @@
 ## Install
 
 ```
-$ npm install --save language-list 
+$ npm install --save languages-list 
 ```
 
 ## Usage
 
 ```js
-var languages = require('language-list');
+var languages = require('languages-list');
 
 console.log(languages);
 ```
