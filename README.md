@@ -3,7 +3,7 @@
 > A list of languages of the world.
 
 
-[![MIT License](https://img.shields.io/badge/license-MIT_License-green.svg?style=flat-square)](https://github.com/bubkoo/language-list/blob/master/LICENSE)
+[![MIT License](https://img.shields.io/badge/license-MIT_License-green.svg?style=flat-square)](https://github.com/bubkoo/languages-list/blob/master/LICENSE)
 
 
 ## Install

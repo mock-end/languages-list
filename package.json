@@ -1,0 +1,30 @@
+{
+  "name": "languages-list",
+  "version": "0.0.0",
+  "description": "> A list of languages of the world.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bubkoo/languages-list.git"
+  },
+  "keywords": [
+    "language",
+    "languages",
+    "lang",
+    "list",
+    "world",
+    "popular"
+  ],
+  "license": "MIT",
+  "author": {
+    "name": "bubkoo",
+    "email": "bubkoo.wy@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/bubkoo/languages-list/issues"
+  },
+  "homepage": "https://github.com/bubkoo/languages-list#readme"
+}
