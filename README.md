@@ -24,3 +24,10 @@ console.log(languages);
 
 - [random-lang](https://github.com/mock-end/random-lang) - Return a random language name.
 - [pick-item](https://github.com/mock-end/pick-item) - Randomly sampling a item from an array.
+
+
+## Contributing
+
+Pull requests and stars are highly welcome.
+
+For bugs and feature requests, please [create an issue](https://github.com/mock-end/languages-list/issues/new).
